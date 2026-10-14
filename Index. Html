@@ -1,0 +1,307 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8000/#contact
+Subject: Vinayak Nalawade | Portfolio
+Date: Tue, 1 Sep 2026 16:24:53 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--j09uT8XzKkadijOYTTf8Mo8TvuzMtuzjXNUaqt0TS2----"
+
+
+------MultipartBoundary--j09uT8XzKkadijOYTTf8Mo8TvuzMtuzjXNUaqt0TS2----
+Content-Type: text/html
+Content-ID: <frame-B284A6145A00771A4A070929936507B3@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8000/#contact
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vinayak Nalawade | Portfolio</title>
+    <link rel="stylesheet" href="http://localhost:8000/style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">VN<span>.</span></div>
+
+            <ul class="nav-links">
+                <li><a href="http://localhost:8000/#home">Home</a></li>
+                <li><a href="http://localhost:8000/#about">About</a></li>
+                <li><a href="http://localhost:8000/#education">Education</a></li>
+                <li><a href="http://localhost:8000/#skills">Skills</a></li>
+                <li><a href="http://localhost:8000/#hobbies">Hobbies</a></li>
+                <li><a href="http://localhost:8000/#contact">Contact</a></li>
+            </ul>
+
+            <button class="menu-btn">☰</button>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- HOME -->
+        <section id="home" class="hero">
+            <div class="hero-content">
+                <p class="welcome">WELCOME TO MY PORTFOLIO</p>
+
+                <h1>Hi, I'm <span>Vinayak Nalawade</span></h1>
+
+                <h2>Electronics Engineering Student</h2>
+
+                <p>
+                    Currently pursuing Diploma in Electronics Engineering
+                    at VJTI, Mumbai. Passionate about technology, learning
+                    new things and developing my skills.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="http://localhost:8000/#about" class="btn primary">Explore My Portfolio</a>
+                    <a href="http://localhost:8000/#contact" class="btn secondary">Contact Me</a>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ABOUT -->
+        <section id="about" class="section">
+            <div class="section-title">
+                <p>GET TO KNOW ME</p>
+                <h2>About <span>Me</span></h2>
+            </div>
+
+            <div class="about-card">
+                <div class="about-icon">VN</div>
+
+                <div>
+                    <h3>Vinayak Nalawade</h3>
+
+                    <p>
+                        I am an Electronics Engineering student currently
+                        studying in the second year at VJTI, Mumbai.
+                        I enjoy learning about computers, technology and
+                        artificial intelligence tools.
+                    </p>
+
+                    <p>
+                        I believe in continuously improving my knowledge
+                        and developing useful technical skills for the future.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- EDUCATION -->
+        <section id="education" class="section education-section">
+            <div class="section-title">
+                <p>MY ACADEMIC JOURNEY</p>
+                <h2>My <span>Education</span></h2>
+            </div>
+
+            <div class="education-grid">
+
+                <div class="education-card">
+                    <div class="card-number">01</div>
+                    <h3>10th Standard</h3>
+                    <p class="institution">Yashwantrao Mahavidyalaya</p>
+                    <div class="percentage">74%</div>
+                    <p>Secondary School Education</p>
+                </div>
+
+                <div class="education-card">
+                    <div class="card-number">02</div>
+                    <h3>ITI</h3>
+                    <p class="institution">Government College, Sangli</p>
+                    <div class="percentage">84%</div>
+                    <p>Industrial Training Institute</p>
+                </div>
+
+                <div class="education-card">
+                    <div class="card-number">03</div>
+                    <h3>Diploma Engineering</h3>
+                    <p class="institution">VJTI, Mumbai</p>
+                    <div class="percentage">2nd Year</div>
+                    <p>Electronics Engineering</p>
+                </div>
+
+            </div>
+        </section>
+
+
+        <!-- SKILLS -->
+        <section id="skills" class="section">
+            <div class="section-title">
+                <p>WHAT I CAN DO</p>
+                <h2>My <span>Skills</span></h2>
+            </div>
+
+            <div class="skills-grid">
+
+                <div class="skill-card">
+                    <div class="skill-icon">💻</div>
+                    <h3>Computer Operating</h3>
+                    <p>
+                        Comfortable with basic computer operations
+                        and everyday computer tasks.
+                    </p>
+                </div>
+
+                <div class="skill-card">
+                    <div class="skill-icon">🤖</div>
+                    <h3>AI Tools</h3>
+                    <p>
+                        Interested in using AI tools for learning,
+                        productivity and exploring new ideas.
+                    </p>
+                </div>
+
+            </div>
+        </section>
+
+
+        <!-- HOBBIES -->
+        <section id="hobbies" class="section hobbies-section">
+            <div class="section-title">
+                <p>BEYOND ACADEMICS</p>
+                <h2>My <span>Hobbies</span></h2>
+            </div>
+
+            <div class="hobbies-grid">
+
+                <div class="hobby-card">
+                    <div class="hobby-icon">🏏</div>
+                    <h3>Cricket</h3>
+                    <p>Playing and enjoying cricket in my free time.</p>
+                </div>
+
+                <div class="hobby-card">
+                    <div class="hobby-icon">🤼</div>
+                    <h3>Kabbadi</h3>
+                    <p>Enjoying the energy, teamwork and competition of Kabbadi.</p>
+                </div>
+
+            </div>
+        </section>
+
+<!-- CONTACT -->
+<section id="contact" class="section contact-section">
+    <div class="section-title">
+        <p>LET'S CONNECT</p>
+        <h2>Contact <span>Me</span></h2>
+    </div>
+
+    <div class="contact-grid">
+
+        <a href="mailto:vinayaknalawade99@gmail.com" class="contact-card">
+            <div class="contact-icon">✉️</div>
+            <h3>Email</h3>
+            <p>vinayaknalawade99@gmail.com</p>
+        </a>
+
+        <a href="tel:9518701770" class="contact-card">
+            <div class="contact-icon">📱</div>
+            <h3>Mobile</h3>
+            <p>9518701770</p>
+        </a>
+
+        <a href="https://instagram.com/vinayak_nalawade_0202" target="_blank" class="contact-card">
+            <div class="contact-icon">📸</div>
+            <h3>Instagram</h3>
+            <p>@vinayak_nalawade_0202</p>
+        </a>
+
+    </div>
+</section>
+
+</main>
+
+<footer>
+    <p>© 2026 Vinayak Nalawade. All Rights Reserved.</p>
+    <p>Designed with 💙 using HTML, CSS &amp; JavaScript</p>
+</footer>
+
+<button id="topBtn" style="display: none;">↑</button>
+
+
+
+
+
+</body></html>
+------MultipartBoundary--j09uT8XzKkadijOYTTf8Mo8TvuzMtuzjXNUaqt0TS2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8000/style.css
+
+@charset "utf-8";
+
+.contact-card { cursor: pointer; }
+
+.contact-card h3 { margin-bottom: 14px; }
+
+.contact-card p { background: rgb(241, 247, 255); border: 1px solid rgb(207, 227, 250); border-radius: 8px; padding: 10px 12px; font-size: 14px; font-weight: 600; color: rgb(36, 81, 127); transition: 0.3s; }
+
+.contact-card:hover p { background: rgb(227, 241, 255); border-color: rgb(8, 120, 232); color: rgb(7, 87, 201); }
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body { font-family: Arial, Helvetica, sans-serif; background: rgb(245, 249, 255); color: rgb(23, 35, 60); line-height: 1.6; }
+
+header { position: fixed; top: 0px; left: 0px; width: 100%; z-index: 1000; background: rgba(255, 255, 255, 0.96); box-shadow: rgba(0, 70, 160, 0.12) 0px 2px 15px; }
+
+.navbar { max-width: 1150px; margin: auto; padding: 18px 25px; display: flex; align-items: center; justify-content: space-between; }
+
+.logo { font-size: 30px; font-weight: bold; color: rgb(7, 87, 201); }
+
+.logo span { color: rgb(25, 167, 255); }
+
+.nav-links { display: flex; list-style: none; gap: 28px; }
+
+.nav-links a { text-decoration: none; color: rgb(23, 35, 60); font-weight: 600; transition: 0.3s; }
+
+.nav-links a:hover { color: rgb(8, 120, 232); }
+
+.menu-btn { display: none; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; background: rgb(8, 120, 232); color: white; font-size: 22px; padding: 7px 11px; border-radius: 7px; cursor: pointer; }
+
+.hero { min-height: 100vh; padding: 150px 25px 80px; display: flex; align-items: center; justify-content: center; text-align: center; background: linear-gradient(135deg, rgb(234, 245, 255), rgb(255, 255, 255)); }
+
+.hero-content { max-width: 850px; }
+
+.welcome { color: rgb(8, 120, 232); font-weight: bold; letter-spacing: 3px; margin-bottom: 15px; }
+
+.hero h1 { font-size: clamp(40px, 7vw, 72px); line-height: 1.1; margin-bottom: 18px; color: rgb(16, 35, 71); }
+
+.hero h1 span { color: rgb(8, 120, 232); }
+
+.hero h2 { font-size: 26px; color: rgb(54, 84, 119); margin-bottom: 20px; }
+
+.hero p:not(.welcome) { max-width: 700px; margin: auto; color: rgb(88, 107, 134); font-size: 17px; }
+
+.hero-buttons { margin-top: 32px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; }
+
+.btn { display: inline-block; padding: 13px 25px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: 0.3s; }
+
+.primary { background: rgb(8, 120, 232); color: white; }
+
+.primary:hover { background: rgb(4, 91, 181); transform: translateY(-3px); }
+
+.secondary { border: 2px solid rgb(8, 120, 232); color: rgb(8, 120, 232); background: white; }
+
+.secondary:hover { background: rgb(8, 120, 232); color: white; transform: translateY(-3px); }
+
+.section { max-width: 1150px; margin: auto; padding: 100px 25px; }
+
+.section-title { text-align: center; margin-bottom: 55px; }
+
+.section-title p { color: rgb(8, 120, 232); font-size: 14px; font-weight: bold; letter-spacing: 2px; }
+
+.section-title h2 { font-size: 42px; color: rgb(16, 35, 71); }
+
+.section-title h2 span { color: rgb(8, 120, 232); }
+
+.about-card { background: white; padding: 40px; border-radius: 18px; box-shadow: rgba(0, 80, 180, 0.1) 0px 8px 30px; display: flex; }
+------MultipartBoundary--j09uT8XzKkadijOYTTf8Mo8TvuzMtuzjXNUaqt0TS2------
